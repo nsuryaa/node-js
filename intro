@@ -1,0 +1,27 @@
+js --> node.js
+
+node.js ---> File handling, connect DB, perform query
+create or remove file from hard disk
+
+run in local 
+
+ js code ====> node ---> v8 engine ===> output
+
+ v8 engine - c++
+
+console.log("Hello World");
+
+Node js
+
+Runtime using v8 engine
+v8 - written in c++
+to convert javascript code into machine code
+
+console.log("Hello World");
+Hello World
+
+node
+node -v
+global
+process
+process.exit(0)

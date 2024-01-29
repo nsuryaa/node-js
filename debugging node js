@@ -1,0 +1,7 @@
+// node --inspect-brk file-name
+// chrome://inspect/#devices
+// Open dedicated DevTools for Node
+
+<!-- debugger;
+var command = argv._[0];
+debugger; -->
